@@ -25,5 +25,5 @@ This repository is configured for GitHub Pages. Once pushed to GitHub, enable Gi
 
 ## License
 
-© We Conquer Media LLC
+© Mindvalley LLC
 
